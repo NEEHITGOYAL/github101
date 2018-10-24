@@ -13,8 +13,8 @@ int main()
     strrev(string2);
     if(strcmp(string,string2) == 0)
 	printf("the string is palindrome\n");
-	else
+    else
 	printf("the string is not palindrome\n");
 	
-   return 0;
+	return 0;
 }
