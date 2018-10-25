@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <string.h>
  
-int main()
-{
+int main(){
+
 	int n;
 	printf("enter string size\n");
 	scanf("%d",&n);
@@ -17,4 +17,4 @@ int main()
 	printf("the string is not palindrome\n");
 	
 	return 0;
-}
+          }
